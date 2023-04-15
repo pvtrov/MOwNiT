@@ -1,5 +1,5 @@
 # MOwNiT
-Computation Methods for Science and Technology course at AGH UST. Reports are written in Polish language. 
+Computation Methods for Science and Technology course at AGH University. Reports are written in Polish language. 
 
 * [Lab 1] -> Wilkinson problem.
 * [Lab 2] -> Newton and Lagrange interpolation 
