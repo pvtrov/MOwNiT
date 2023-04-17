@@ -5,7 +5,7 @@ Computation Methods for Science and Technology course at AGH University. Reports
 * [Lab 2] -> Newton and Lagrange interpolation 
 * [Lab 3] -> Hermite interpolation 
 * [Lab 4] -> Spline Interpolation
-* [Lab_5] -> Least squares polynomial approximation
+* [Lab 5] -> Least squares polynomial approximation
 
 [lab 1]: https://github.com/pvtrov/MOwNiT/tree/main/lab_1
 [Lab 2]: https://github.com/pvtrov/MOwNiT/tree/main/lab_2
