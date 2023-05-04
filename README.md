@@ -6,12 +6,14 @@ Computation Methods for Science and Technology course at AGH University. Reports
 * [Lab 3] -> Hermite interpolation 
 * [Lab 4] -> Spline Interpolation
 * [Lab 5] -> Least squares polynomial approximation
+* [Lab 6] -> Trigonometric approximation
 
 [lab 1]: https://github.com/pvtrov/MOwNiT/tree/main/lab_1
 [Lab 2]: https://github.com/pvtrov/MOwNiT/tree/main/lab_2
 [lab 3]: https://github.com/pvtrov/MOwNiT/tree/main/lab_3
 [lab 4]: https://github.com/pvtrov/MOwNiT/tree/main/lab_4
 [lab 5]: https://github.com/pvtrov/MOwNiT/tree/main/lab_5
+[lab 6]: https://github.com/pvtrov/MOwNiT/tree/main/lab_6
 
 
 If this repo is any kind usefull to you, pls leave a star :star2:
