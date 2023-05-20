@@ -9,6 +9,7 @@ Computation Methods for Science and Technology course at AGH University. Reports
 * [Lab 6] -> Trigonometric approximation
 * [Lab 7] -> Interpolation & Approximation summary presentation
 * [Lab 8] -> Non-linear equations
+* [Lab 9] -> Linear equations - Gauss elimination and Thomas algorithm
 
 [lab 1]: https://github.com/pvtrov/MOwNiT/tree/main/lab_1
 [Lab 2]: https://github.com/pvtrov/MOwNiT/tree/main/lab_2
@@ -18,6 +19,7 @@ Computation Methods for Science and Technology course at AGH University. Reports
 [lab 6]: https://github.com/pvtrov/MOwNiT/tree/main/lab_6
 [Lab 7]: https://github.com/pvtrov/MOwNiT/tree/main/lab_7
 [Lab 8]: https://github.com/pvtrov/MOwNiT/tree/main/lab_8
+[Lab 9]: https://github.com/pvtrov/MOwNiT/tree/main/lab_9
 
 
 
