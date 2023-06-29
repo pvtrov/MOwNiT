@@ -12,15 +12,15 @@ Computation Methods for Science and Technology course at AGH University. Reports
 * [Lab 9] -> Linear equations -  Gauss elimination and Thomas algorithm
 * [Lab 10] -> Linear equations - iterative methods -> Jacobi method
   
-[lab 1]: https://github.com/pvtrov/MOwNiT/tree/main/lab_1
-[Lab 2]: https://github.com/pvtrov/MOwNiT/tree/main/lab_2
-[lab 3]: https://github.com/pvtrov/MOwNiT/tree/main/lab_3
-[lab 4]: https://github.com/pvtrov/MOwNiT/tree/main/lab_4
-[lab 5]: https://github.com/pvtrov/MOwNiT/tree/main/lab_5
-[lab 6]: https://github.com/pvtrov/MOwNiT/tree/main/lab_6
-[Lab 7]: https://github.com/pvtrov/MOwNiT/tree/main/lab_7
-[Lab 8]: https://github.com/pvtrov/MOwNiT/tree/main/lab_8
-[Lab 9]: https://github.com/pvtrov/MOwNiT/tree/main/lab_9
+[lab 1]: https://github.com/pvtrov/MOwNiT/tree/main/lab_01
+[Lab 2]: https://github.com/pvtrov/MOwNiT/tree/main/lab_02
+[lab 3]: https://github.com/pvtrov/MOwNiT/tree/main/lab_03
+[lab 4]: https://github.com/pvtrov/MOwNiT/tree/main/lab_04
+[lab 5]: https://github.com/pvtrov/MOwNiT/tree/main/lab_05
+[lab 6]: https://github.com/pvtrov/MOwNiT/tree/main/lab_06
+[Lab 7]: https://github.com/pvtrov/MOwNiT/tree/main/lab_07
+[Lab 8]: https://github.com/pvtrov/MOwNiT/tree/main/lab_08
+[Lab 9]: https://github.com/pvtrov/MOwNiT/tree/main/lab_09
 [Lab 10]: https://github.com/pvtrov/MOwNiT/tree/main/lab_10
 
 
